@@ -1,0 +1,11 @@
+{
+  "name": "javascript-tutorial",
+  "version": "1.0.0",
+  "description": "This project is dedicated to learn javascript basics ad advance",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run"
+  },
+  "author": "Pranav Kumar Verma",
+  "license": "ISC"
+}
